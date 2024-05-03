@@ -34,6 +34,9 @@ The problem of this dataset is that there is going to be a lot of changing varia
 ## TRAINING
 For the model training, a logistic regression/gradient boosting decision tree was utilized. GBDT basically takes all decision trees and gets the top results from each of them to formulate a bigger result. These both have to do with correlation. This training only took 2k samples (to optimize performance and make it faster) from May 28, 2016 because this is what the question prompt asked for. A little more prepping was needed more because I did not realize there were inappropriate data types and more missing values beforehand. Training took a longer time because I was not sure what was wrong but it turns out the strings categories were not strings and the some of the intefers were still floats. There were also missing values in the "age_grouped" column so I filled null values using the category "adult." I tried rescaling because it told me to increase the number of iterations but I was not sure how to fix that part. 
 
+<img width="973" alt="Screen Shot 2024-05-03 at 4 49 05 AM" src="https://github.com/mariahncornelio/DATA3402.Spring.2024.Fork/assets/143844081/061ae4f7-baa0-4806-9c15-af80fb881380">
+
+
 ## PERFORMANCE COMPARISONS
 Through this algorithm, we were able to create a dataframe that contained the predicted probability each product would have for each customer. I created a submission file that took the top recommended product (pred_score > 0.5) for each customer ID and another submission file that took the top 3 recommended products (3 highest pred_score products). 
 
