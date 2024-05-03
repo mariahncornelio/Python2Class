@@ -1,4 +1,4 @@
-# SANTANDER PRODUCT RECOMMENDATION KAGGLE PROJECT SOLUTIONS - PRACTICE 
+# Santander Product Recommendation KAGGLE PROJECT Solutions - PRACTICE 
 This repository holds an attempt to apply machine learning and prediction-recommendation algorithms to Santander Bank's customer database using data from "Santander Product Recommendation"'zs Kaggle challenge: (https://www.kaggle.com/competitions/santander-product-recommendation/data?select=train_ver2.csv.zip).
 
 # Overview
