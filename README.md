@@ -78,4 +78,15 @@ To perform this training, make sure all floats are turned into integers, strings
 To evaluate a LR model, you can use an ROC/AUC curve where a higher X-axis shows a higher number of false positives rather than true negatives. 
 
 # Citations
+[1] Banco Santander. (2014). Santander Product Recommendation. Kaggle. https://www.kaggle.com/competitions/santander-product-recommendation/data?select=train_ver2.csv.zip 
+
+[2] Bhandari, A. (2024). Guide to AUC ROC Curve in Machine Learning. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/#:~:text=In%20an%20AUC%2DROC%20curve,positives%20and%20False%20negatives%20naturally. 
+
+[3] Mwiti, D. (2023). Gradient Boosted Decision Trees [Guide]: a Conceptual Explanation. Neptune.ai. https://neptune.ai/blog/gradient-boosted-decision-trees-guide#:~:text=In%20gradient%20boosting%2C%20an%20ensemble,average%20of%20all%20weak%20learners. 
+
+[4] Sharadarao. (2023). Cosine Similarity. GeeksforGeeks. https://www.geeksforgeeks.org/cosine-similarity/ 
+
+[5] Tabsharani, F. (2024). What is a support vector machine (SVM)? TechTarget. https://www.techtarget.com/whatis/definition/support-vector-machine-SVM#:~:text=A%20support%20vector%20machine%20(SVM)%20is%20a%20type%20of%20supervised,data%20set%20into%20two%20groups.
+
+[6] Wang, D. (2017). 80%/20% splitting strategy for obtaining training, validation and testing sets. ResearchGate. https://www.researchgate.net/figure/80-20-splitting-strategy-for-obtaining-training-validation-and-testing-sets_fig1_320830045#:~:text=Instead%2C%20we%20choose%2080%25%2F,separately%20on%20the%20two%20sets. 
 
