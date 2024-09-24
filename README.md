@@ -1,3 +1,18 @@
+# Python 2 - DATA3402 Spring 2024
+This repository is forked from https://github.com/UTA-DataScience/DATA3402.Spring.2024 and contains my solutions to the homework and labs assigned by our professor. Below is a quick overview of what each lab covers. At the bottom, you'll also find a report on the Kaggle Project, which was our end-of-semester project.
+
+- <b>Lab 1:</b> Downloading and using Unix
+- <b>Lab 2:</b> Create a Tic Tac Toe Game
+- <b>Lab 3:</b> Monte Carlo Simulation
+- <b>Lab 4:</b> Object Oriented Programming (Shapes)
+- <b>Lab 5:</b> Create a Simple Linear Algebra System (Matrix Representation)
+- <b>Lab 6:</b> Create a Black Jack Game
+- <b>Lab 7:</b> Data Analysis on the SUSY Dataset
+- <b>Lab 8:</b> Data Analysis on the SUSY Dataset
+- <b>Lab 9:</b> Deep Learning Model
+
+___
+
 # Santander Product Recommendation KAGGLE PROJECT Solutions - PRACTICE 
 This repository holds an attempt to apply machine learning and prediction-recommendation algorithms to Santander Bank's customer database using data from "Santander Product Recommendation"'zs Kaggle challenge: (https://www.kaggle.com/competitions/santander-product-recommendation/data?select=train_ver2.csv.zip).
 
